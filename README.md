@@ -1,1 +1,1 @@
-# Testing-Project---Social-Media-Site
+This repository contains a comprehensive testing suite for the Facebook login page, focusing on a social media site's authentication functionality. The project includes detailed test cases, a thorough test plan, test summary, and various test scenarios to ensure the reliability and security of the Facebook login process.
